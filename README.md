@@ -12,6 +12,7 @@ python task_cli.py delete 1
 python task_cli.py mark-done 1
 python task_cli.py mark-in-progress 1
 ```
+
 ## Running tests
 ```bash
 pip install pytest
