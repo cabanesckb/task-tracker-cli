@@ -16,5 +16,5 @@ python task_cli.py mark-in-progress 1
 ## Running tests
 ```bash
 pip install pytest
-pytest test_tasks.py
+pytest test_task_cli.py
 ```
